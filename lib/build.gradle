@@ -3,6 +3,7 @@ plugins {
 }
 
 apply plugin: 'com.github.dcendents.android-maven'
+group='com.ximalaya.ting.android.adsdk.gdtnoop'
 
 android {
     compileSdkVersion 31
